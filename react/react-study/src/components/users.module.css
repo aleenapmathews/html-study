@@ -1,0 +1,10 @@
+.user-table,th,td{
+    border: 2px solid green;
+    border-collapse: collapse;
+}
+.user-table tbody tr:nth-child(even){
+    color: rgb(209, 113, 75);
+}
+.user-table tbody tr:nth-child(odd){
+    color: green;
+}
