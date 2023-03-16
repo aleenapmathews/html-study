@@ -1,0 +1,17 @@
+*{
+    text-decoration: none;
+}
+.navbar{
+    background: darkgray;
+    padding: 4px;
+}
+li {
+    list-style: none;
+    display: inline-block;
+}
+li a{
+    color: white;
+    font-size: 2rem;
+    margin-right: 25px;
+
+}
